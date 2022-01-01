@@ -15,6 +15,8 @@ My name is Sentayhu Ali and I'm a software developer. I'm from Ethiopia, living 
 ![](https://img.shields.io/badge/Cloud-Aws-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Query-Graphiql-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
 <!-- links to social media icons -->
 
 <!-- icons without padding -->
