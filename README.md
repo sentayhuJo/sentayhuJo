@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Sentayhu Ali and I'm a software developer. I'm from Ethiopia, living in London, UK and currently working at Financial times. You can find me on[![LinkedIn][3.2]][3].
+My name is Sentayhu Ali and I'm a software developer. I'm from Ethiopia, living in London, UK and currently working at Financial times. You can find me on[![LinkedIn][1.1]][2].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,13 +18,13 @@ My name is Sentayhu Ali and I'm a software developer. I'm from Ethiopia, living 
 <!-- links to social media icons -->
 
 <!-- icons without padding -->
-[3.2]: https://raw.githubusercontent.com/sentayhuJo/sentayhuJo/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.1]: https://github.com/sentayhuJo/sentayhuJo/blob/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
 
-[2]: https://github.com/sentayhuJo
-[3]: https://www.linkedin.com/in/sentayhu/
+[1]: https://github.com/sentayhuJo
+[2]: https://www.linkedin.com/in/sentayhu/
 
 
 <!-- Resources -->
