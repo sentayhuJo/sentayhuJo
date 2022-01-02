@@ -12,8 +12,8 @@ My name is Sentayhu Ali and I'm a software developer. I'm from Ethiopia, living 
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Cloud-Aws-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Query-Graphiql-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Query-GraphQL-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
