@@ -17,9 +17,11 @@ My name is Sentayhu Ali and I'm a software developer. I'm from Ethiopia, living 
 
 <!--START_SECTION:waka-->
 ```text
-From: 15 February, 2022 - To: 21 February, 2022
+From: 16 February, 2022 - To: 22 February, 2022
 
-JavaScript   2 hrs 2 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.31 % 
+JavaScript   2 hrs 40 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀   74.99 % 
+YAML         52 mins         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.30 % 
+Bash         1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.71 % 
 ```
 <!--END_SECTION:waka-->
 
